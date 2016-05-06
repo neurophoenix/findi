@@ -4,6 +4,7 @@ import pickle
 import datetime
 from os import listdir
 
+
 listOfEntries = listdir("./data")
 filesSizeZero = 0
 listOfZero = ""
